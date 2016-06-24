@@ -3,11 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-/*
- * These are some comments with a change adfasdfsa
- * 
- */
-
 
 namespace BeamProperties
 {
